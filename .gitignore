@@ -19,7 +19,7 @@ docs/
 
 package-lock.json
 
-tsconfig.json
+# tsconfig.json
 
 .eslintignore
 .eslintrc.json
